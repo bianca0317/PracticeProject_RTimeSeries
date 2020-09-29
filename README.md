@@ -1,2 +1,2 @@
 # practice-projects
-This repository contains various personal projects for practive and retention of knowledge.
+Time series model for the Philippine Stock Exchange Index
